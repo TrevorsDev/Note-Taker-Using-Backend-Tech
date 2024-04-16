@@ -14,10 +14,10 @@ app.use('/', htmlRoutes);
 
 
 app.listen(PORT, () => {
-    console.log(`Server running on port ${PORT}`)
+    console.log(`Server running on port http://localhost:${PORT}`)
 });
 
-//Look at mini project related to module 11 and check out the file system 
+//Look at mini project related to module 11 and check out the file system
 // The public folder holds files that are all front end files.
 // Routes folder are backend flies
 // For express we mainly are focused on making a server, html routes, and api routes
