@@ -28,4 +28,4 @@ Megan, Bobbi, and Dennis of ASU-EDX were the inspiring collaborators to this pro
 No testing was performed for this project.
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at undefined. If you want to see more of my work, please visit my [GitHub](https://github.com/undefined) account.
+If you have any questions about the repo, open an issue or contact me directly at undefined. If you want to see more of my work, please visit my [GitHub](https://github.com/TrevorsDev) account.
